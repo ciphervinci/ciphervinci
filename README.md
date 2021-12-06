@@ -2,7 +2,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
-I'm Rishikesh, a Software Engineer who loves Data and Tech. I like to learn new technologies growing rapidly in our world. I have hands on practice in cyber security and penetration testing. I worked in cloud platform like ServiceNow for clients to manage there business. Scroll futher to know more about me 😄
+I'm Rishikesh, a Software Engineer who loves Data and Tech. I like to learn new technologies growing rapidly in our world. I have hands on practice in cyber security and penetration testing. I worked in cloud platform like ServiceNow for clients to manage there business 😄
 
 ## About Me
 
